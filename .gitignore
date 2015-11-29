@@ -1,3 +1,8 @@
+run.cmd
+*.js
+typings
+.vscode
+
 # Logs
 logs
 *.log
